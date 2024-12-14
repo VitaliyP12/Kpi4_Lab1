@@ -1,0 +1,15 @@
+{
+  "name": "kpi4",
+  "version": "1.0.0",
+  "main": "mainfile.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Perchuk Vitaliy IM-24",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
