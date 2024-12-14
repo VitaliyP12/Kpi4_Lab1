@@ -12,6 +12,8 @@
    git clone https://github.com/VitaliyP12/Kpi4_Lab1.git
    cd Kpi4_Lab1
 2. Встановлення залежностей:
+   ```bash
    npm install
-3. Запуск тестів:
+4. Запуск тестів:
+   ```bash
    npm test
